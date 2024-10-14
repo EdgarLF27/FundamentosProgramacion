@@ -1,3 +1,8 @@
+'''
+Programa que pide coordenadas de dos puntos y calcula la distancia entre ellos
+Entrada -> x1, y1, x2, y2
+Salida -> "La distancia entre los puntos es: distancia"
+'''
 import math
 
 x1 = float(input("Introduce la coordenada x1: "))

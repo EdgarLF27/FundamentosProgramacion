@@ -1,3 +1,8 @@
+'''
+Programa que solicita al usuario los catetos de un triángulo rectángulo y calcula la hipotenusa
+Entrada -> Cateto a y b
+Salida -> "La hipotenusa es: hipotenusa"
+'''
 import math
 a = int(input ("Escribe el valor del cateto A: "))
 b= int(input("Escribe el valor del cateto B: "))

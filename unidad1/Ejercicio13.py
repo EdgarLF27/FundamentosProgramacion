@@ -1,3 +1,8 @@
+'''
+Programa que pide un número y calcula su raíz cuadrada y su raíz cúbica
+Entrada -> numero
+Salida -> "La raíz cuadrada de numero es: raiz_cuadrada, La raíz coubted de numero es: raiz_cubica"
+'''
 import math
 
 numero = float(input("Introduce un número: "))
